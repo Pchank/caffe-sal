@@ -1,4 +1,5 @@
-IIAU(2017)  Saliency Detection Models
+                 IIAU (2017)  Saliency Detection Models
+
 Introduction
 ----------------------------------------------------------------------------------
   This file contains saliency detection models using the caffe framework. We dive into
