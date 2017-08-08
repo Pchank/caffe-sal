@@ -72,6 +72,6 @@ Please cite the following papers if our models help your research:
 
 Question and Connection
 ----------------------------------------------------------------------------------
-If any question, please connection
+If any question, please connect
 
-jssxzhpp@gmail.com;jssxzhpp@mail.dlut.edu.cn
+jssxzhpp@gmail.com; jssxzhpp@mail.dlut.edu.cn
