@@ -8,13 +8,13 @@ the convolutional features in pre-trained FCN models and propose the following m
 
 Title: Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection
 
-Author: Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Xiang Ruan 
+Authors: Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Xiang Ruan 
 
 2) UCF
 
 Title: Learning Uncertain Convolutional Features for Accurate Saliency Detection
 
-Author: Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Baocai Yin
+Authors: Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Baocai Yin
 
 How to use
 -----------------------------------------------------------------------------------
