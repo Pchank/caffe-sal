@@ -9,7 +9,8 @@ Title: Amulet: Aggregating Multi-level Convolutional Features for Salient Object
 Author: Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Xiang Ruan
 
 Links: Google Drive https://drive.google.com/file/d/0B5t8yubOMmTKUnZUYTY5NDdWcTg/view?usp=sharing
-       One Drive    https://drive.google.com/file/d/0B5t8yubOMmTKUnZUYTY5NDdWcTg/view?usp=sharing
+
+       One Drive    https://1drv.ms/u/s!AnzjJimFPB2IafxcNm5_NVs8vNo
 
 UCF
 Title: Learning Uncertain Convolutional Features for Accurate Saliency Detection
@@ -17,11 +18,14 @@ Title: Learning Uncertain Convolutional Features for Accurate Saliency Detection
 Author: Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Baocai Yin
 
 Links: Google Drive https://drive.google.com/file/d/0B5t8yubOMmTKbUFUQ1gtekVnNEE/view?usp=sharing
+
        One Drive    https://drive.google.com/file/d/0B5t8yubOMmTKbUFUQ1gtekVnNEE/view?usp=sharing
 
 How to use
 
 Prerequisites:
+
+Download source code from  https://drive.google.com/file/d/0B5t8yubOMmTKb25DdGtmVEFMX0E/view?usp=sharing or https://1drv.ms/u/s!AnzjJimFPB2IafxcNm5_NVs8vNo.
 
 Follow the official websites of the Caffe framework and install the whole toolbox (necessary Matlab wrappers)
 
