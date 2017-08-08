@@ -1,6 +1,6 @@
                                  IIAU (2017) Saliency Detection Models
 Introduction
-
+------------------------------------------------------------------------------------------------------------------
 This file contains saliency detection models using the Caffe framework. We dive into the convolutional features in pre-trained FCN models and propose the following methods.
 
 Amulet
