@@ -2,22 +2,25 @@
 
 Introduction
 ----------------------------------------------------------------------------------
-  This file contains saliency detection models using the caffe framework. We dive into
+  This file contains saliency detection models using the Caffe framework. We dive into
 the convolutional features in pre-trained FCN models and propose the following methods.
 1) Amulet
 
 Title: Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection
+
 Author: Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Xiang Ruan 
 
 2) UCF
 
 Title: Learning Uncertain Convolutional Features for Accurate Saliency Detection
+
 Author: Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Baocai Yin
 
 How to use
 -----------------------------------------------------------------------------------
-Prerequisites: Follow the offical websites of Caffe framework and install the whole toolbox 
-(necessary Matlab wrappers)
+Prerequisites: 
+
+Follow the offical websites of Caffe framework and install the whole toolbox (necessary Matlab wrappers)
 
 1) training
 
