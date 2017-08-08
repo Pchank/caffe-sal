@@ -3,7 +3,8 @@ Introduction
 ------------------------------------------------------------------------------------------------------------------
 This file contains saliency detection models using the Caffe framework. We dive into the convolutional features in pre-trained FCN models and propose the following methods.
 
-Amulet
+1) Amulet
+
 Title: Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection
 
 Author: Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Xiang Ruan
@@ -11,7 +12,8 @@ Author: Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Xiang Ruan
 Links: Google Drive https://drive.google.com/file/d/0B5t8yubOMmTKUnZUYTY5NDdWcTg/view?usp=sharing
        One Drive    https://1drv.ms/u/s!AnzjJimFPB2Ibqy-4-sxZOHnb2s
 
-UCF
+2) UCF
+
 Title: Learning Uncertain Convolutional Features for Accurate Saliency Detection
 
 Author: Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Baocai Yin
@@ -20,6 +22,7 @@ Links: Google Drive https://drive.google.com/file/d/0B5t8yubOMmTKbUFUQ1gtekVnNEE
        One Drive    https://1drv.ms/u/s!AnzjJimFPB2IbY_bYGa-d5HemFw
 
 How to use
+--------------------------------------------------------------------------------------------------------------
 
 Prerequisites:
 
@@ -27,10 +30,12 @@ Download source code from  https://drive.google.com/file/d/0B5t8yubOMmTKb25DdGtm
 
 Follow the official websites of the Caffe framework and install the whole toolbox (necessary Matlab wrappers)
 
-training
+1) training
+
 The training code is in ./models/Amulet and ./models/UCF. For saving memory, we use the BN method implemented by Alex Kendall etal http://mi.eng.cam.ac.uk/projects/segnet/. The training is followed as examples in Caffe. The only need is changing the path of data files.
 
-testing
+2) testing
+
 The testing code is in ./matlab/Amulet_test and ./models/UCF_test.
 
 For dataset testing,
@@ -48,7 +53,7 @@ For dataset testing,
 Note that we have provided the PR curves in ./PR_curves
 
 Citation
-
+---------------------------------------------------------------------------------------------------------------------
 Please cite the following papers if our models help your research:
 
 @article{pingping2017amulet}
@@ -72,7 +77,7 @@ title = {Learning Uncertain Convolutional Features for Accurate Saliency Detecti
 }
 
 Question and Connection
+------------------------------------------------------------------------------------------------------------------
+If any question, please connect
 
-If any question, please connection
-
-jssxzhpp@gmail.com;jssxzhpp@mail.dlut.edu.cn
+jssxzhpp@gmail.com;  jssxzhpp@mail.dlut.edu.cn
