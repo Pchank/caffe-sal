@@ -20,13 +20,13 @@ How to use
 -----------------------------------------------------------------------------------
 Prerequisites: 
 
-Follow the offical websites of Caffe framework and install the whole toolbox (necessary Matlab wrappers)
+Follow the official websites of the Caffe framework and install the whole toolbox (necessary Matlab wrappers)
 
 1) training
 
   The training code is in ./models/Amulet and ./models/UCF. For saving memory, we use the 
 BN method implemented by Alex Kendall etal. The training is followed as examples in Caffe. 
-The only need is changing the path of data and files.
+The only need is changing the path of data files.
 
 2) testing
 
