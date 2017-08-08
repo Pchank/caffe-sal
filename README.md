@@ -34,11 +34,11 @@ Download source code from  https://drive.google.com/file/d/0B5t8yubOMmTKb25DdGtm
 
 Follow the official websites of the Caffe framework and install the whole toolbox (necessary Matlab wrappers)
 
-1) training
+1) Training
 
 The training code is in ./models/Amulet and ./models/UCF. For saving memory, we use the BN method implemented by Alex Kendall etal http://mi.eng.cam.ac.uk/projects/segnet/. The training is followed as examples in Caffe. The only need is changing the path of data files.
 
-2) testing
+2) Testing
 
 The testing code is in ./matlab/Amulet_test and ./models/UCF_test.
 
