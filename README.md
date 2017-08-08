@@ -30,10 +30,15 @@ The only need is changing the path of data and files.
  The testing code is in ./matlab/Amulet_test and ./models/UCF_test. 
  
 For dataset testing, 
+
   (1) Get prediction : test_saliency_dataset.m
+  
   (2) Get PR value : PR.m
+  
   (3) Plot PR curves: code_pr.m
+  
   (4) Plot Bar figures: code_bar.m
+  
   (5) Get MAE for each method : getmae.m
   
 Note that we have provided the PR curves in ./PR_curves
