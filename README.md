@@ -1,5 +1,4 @@
 IIAU (2017) Saliency Detection Models
-
 Introduction
 ----------------------------------------------------------------------------------
   This file contains saliency detection models using the caffe framework. We dive into
@@ -10,8 +9,8 @@ Author: Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Xiang Ruan
 2) UCF
 Title: Learning Uncertain Convolutional Features for Accurate Saliency Detection
 Author: Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Baocai Yin
------------------------------------------------------------------------------------
 How to use
+-----------------------------------------------------------------------------------
 Prerequisites: Follow the offical websites of Caffe framework and install the whole toolbox 
 (necessary Matlab wrappers)
 1) training
@@ -27,9 +26,8 @@ For dataset testing,
   (4) Plot Bar figures: code_bar.m
   (5) Get MAE for each method : getmae.m
 Note that we have provided the PR curves in ./PR_curves
-------------------------------------------------------------------------------------
 Citation
-
+-----------------------------------------------------------------------------------
 Please cite the following papers if our models help your research:
 @article{pingping2017amulet}
  author = {Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Xiang Ruan}
@@ -41,8 +39,7 @@ Please cite the following papers if our models help your research:
  journal = {arXiv preprint arXiv:1708.02031}
  title = {Learning Uncertain Convolutional Features for Accurate Saliency Detection}
 }
-----------------------------------------------------------------------------------
 Question and Connection
-
+----------------------------------------------------------------------------------
 If any question, please connection
 jssxzhpp@gmail.com;jssxzhpp@mail.dlut.edu.cn
