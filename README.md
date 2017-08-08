@@ -9,8 +9,7 @@ Title: Amulet: Aggregating Multi-level Convolutional Features for Salient Object
 Author: Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Xiang Ruan
 
 Links: Google Drive https://drive.google.com/file/d/0B5t8yubOMmTKUnZUYTY5NDdWcTg/view?usp=sharing
-
-       One Drive    https://1drv.ms/u/s!AnzjJimFPB2IafxcNm5_NVs8vNo
+       One Drive    https://1drv.ms/u/s!AnzjJimFPB2Ibqy-4-sxZOHnb2s
 
 UCF
 Title: Learning Uncertain Convolutional Features for Accurate Saliency Detection
@@ -18,8 +17,7 @@ Title: Learning Uncertain Convolutional Features for Accurate Saliency Detection
 Author: Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Baocai Yin
 
 Links: Google Drive https://drive.google.com/file/d/0B5t8yubOMmTKbUFUQ1gtekVnNEE/view?usp=sharing
-
-       One Drive    https://drive.google.com/file/d/0B5t8yubOMmTKbUFUQ1gtekVnNEE/view?usp=sharing
+       One Drive    https://1drv.ms/u/s!AnzjJimFPB2IbY_bYGa-d5HemFw
 
 How to use
 
