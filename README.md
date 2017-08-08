@@ -11,7 +11,6 @@ Author: Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Xiang Ruan
 Title: Learning Uncertain Convolutional Features for Accurate Saliency Detection
 Author: Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Baocai Yin
 -----------------------------------------------------------------------------------
-
 How to use
 Prerequisites: Follow the offical websites of Caffe framework and install the whole toolbox 
 (necessary Matlab wrappers)
