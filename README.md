@@ -69,6 +69,7 @@ Please cite the following papers if our models help your research:
   journal={arXiv preprint arXiv:1708.02001},
   
   year={2017}
+  
 }
 
 @article{zhang2017learning,
@@ -80,6 +81,7 @@ Please cite the following papers if our models help your research:
   journal={arXiv preprint arXiv:1708.02031},
   
   year={2017}
+  
 }
 
 Question and Connection
