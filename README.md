@@ -60,24 +60,26 @@ Citation
 ---------------------------------------------------------------------------------------------------------------------
 Please cite the following papers if our models help your research:
 
-@article{pingping2017amulet}
+@article{zhang2017amulet,
 
-author = {Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Xiang Ruan}
-
-journal = {arXiv preprint arXiv:1708.02001}
-
-title = {Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection}
-
+  title={Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection},
+  
+  author={Zhang, Pingping and Wang, Dong and Lu, Huchuan and Wang, Hongyu and Ruan, Xiang},
+  
+  journal={arXiv preprint arXiv:1708.02001},
+  
+  year={2017}
 }
 
-@article{pingping2017ucf}
+@article{zhang2017learning,
 
-author = {Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Baocai Yin}
-
-journal = {arXiv preprint arXiv:1708.02031}
-
-title = {Learning Uncertain Convolutional Features for Accurate Saliency Detection}
-
+  title={Learning Uncertain Convolutional Features for Accurate Saliency Detection},
+  
+  author={Zhang, Pingping and Wang, Dong and Lu, Huchuan and Wang, Hongyu and Yin, Baocai},
+  
+  journal={arXiv preprint arXiv:1708.02031},
+  
+  year={2017}
 }
 
 Question and Connection
