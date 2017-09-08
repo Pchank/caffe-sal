@@ -97,7 +97,7 @@ Please cite the following papers if our models help your research:
   
 }
 
-Question and Connection
+Question and connection
 ------------------------------------------------------------------------------------------------------------------
 If any question, please connect
 
