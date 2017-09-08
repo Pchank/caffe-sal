@@ -10,9 +10,11 @@ Title: Amulet: Aggregating Multi-level Convolutional Features for Salient Object
 Authors: Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Xiang Ruan
 
 Links: 
-Google Drive https://drive.google.com/file/d/0B5t8yubOMmTKUnZUYTY5NDdWcTg/view?usp=sharing
+Google Drive Link: https://drive.google.com/file/d/0B5t8yubOMmTKUnZUYTY5NDdWcTg/view?usp=sharing or
 
-One Drive    https://1drv.ms/u/s!AnzjJimFPB2Ibqy-4-sxZOHnb2s
+One Drive    Link: https://1drv.ms/u/s!AnzjJimFPB2Ibqy-4-sxZOHnb2s or
+
+Baidu Pan    Link: https://pan.baidu.com/s/1gfKkIwN
 
 2) UCF
 
@@ -21,16 +23,24 @@ Title: Learning Uncertain Convolutional Features for Accurate Saliency Detection
 Authors: Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Baocai Yin
 
 Links: 
-Google Drive https://drive.google.com/file/d/0B5t8yubOMmTKbUFUQ1gtekVnNEE/view?usp=sharing
+Google Drive Link: https://drive.google.com/file/d/0B5t8yubOMmTKbUFUQ1gtekVnNEE/view?usp=sharing
 
-One Drive    https://1drv.ms/u/s!AnzjJimFPB2IbY_bYGa-d5HemFw
+One Drive    Link: https://1drv.ms/u/s!AnzjJimFPB2IbY_bYGa-d5HemFw
+
+Baidu Pan    Link: https://pan.baidu.com/s/1skCi4Dv
 
 How to use
 --------------------------------------------------------------------------------------------------------------
 
 Prerequisites:
 
-Download source code from  https://drive.google.com/file/d/0B5t8yubOMmTKelBZQlE3Y3JzOWs/view?usp=sharing or https://1drv.ms/u/s!AnzjJimFPB2Ib_zU3E15C6AxkXQ.
+Download source code from  
+Google Drive Link: https://drive.google.com/file/d/0B5t8yubOMmTKelBZQlE3Y3JzOWs/view?usp=sharing or 
+
+One Drive    Link: https://1drv.ms/u/s!AnzjJimFPB2Ib_zU3E15C6AxkXQ or
+
+Baidu Pan    Link: https://pan.baidu.com/s/1boX9Pkr
+
 
 Follow the official websites of the Caffe framework and install the whole toolbox (necessary Matlab wrappers)
 
