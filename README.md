@@ -7,7 +7,7 @@ This file contains saliency detection models using the Caffe framework. We dive 
 
 Title: Amulet: Aggregating Multi-level Convolutional Features for Salient Object Detection
 
-Authors: Pingping Zhang, Dong Wang, Huchuan Lu^{*}, Hongyu Wang and Xiang Ruan
+Authors: Pingping Zhang, Dong Wang, Huchuan Lu*, Hongyu Wang and Xiang Ruan
 
 Paper Links: 
 
@@ -21,7 +21,7 @@ Baidu Pan    Link: https://pan.baidu.com/s/1gfKkIwN
 
 Title: Learning Uncertain Convolutional Features for Accurate Saliency Detection
 
-Authors: Pingping Zhang, Dong Wang, Huchuan Lu, Hongyu Wang and Baocai Yin
+Authors: Pingping Zhang, Dong Wang, Huchuan Lu*, Hongyu Wang and Baocai Yin
 
 Paper Links: 
 
