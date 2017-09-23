@@ -85,6 +85,20 @@ Please cite the following papers if our models help your research:
   
 }
 
+@InProceedings{Zhang_2017_ICCV,
+
+author = {Zhang, Pingping and Wang, Dong and Lu, Huchuan and Wang, Hongyu and Ruan, Xiang},
+
+title = {Amulet: Aggregating Multi-Level Convolutional Features for Salient Object Detection},
+
+booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+
+month = {Oct},
+
+year = {2017}
+
+}
+
 @article{zhang2017learning,
 
   title={Learning Uncertain Convolutional Features for Accurate Saliency Detection},
@@ -95,6 +109,20 @@ Please cite the following papers if our models help your research:
   
   year={2017}
   
+}
+
+@InProceedings{Zhang_2017_ICCV,
+
+author = {Zhang, Pingping and Wang, Dong and Lu, Huchuan and Wang, Hongyu and Yin, Baocai},
+
+title = {Learning Uncertain Convolutional Features for Accurate Saliency Detection},
+
+booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+
+month = {Oct},
+
+year = {2017}
+
 }
 
 Question and connection
