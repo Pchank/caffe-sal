@@ -1,7 +1,8 @@
-                                 IIAU (2017) Saliency Detection Models
+                                      IIAU (2017) Saliency Detection Models
+                                      
 Introduction
 ------------------------------------------------------------------------------------------------------------------
-This file contains saliency detection models using the Caffe framework. We dive into the convolutional features in pre-trained FCN models and propose the following methods.
+This file contains our saliency detection models appeared in ICCV2017. We dive into the convolutional features in pre-trained FCN models and propose the following methods.
 
 1) Amulet
 
@@ -26,6 +27,19 @@ Authors: Pingping Zhang, Dong Wang, Huchuan Lu*, Hongyu Wang and Baocai Yin
 Paper Links: 
 
 Google Drive Link: https://drive.google.com/file/d/0B5t8yubOMmTKbUFUQ1gtekVnNEE/view?usp=sharing
+
+One Drive    Link: https://1drv.ms/u/s!AnzjJimFPB2IbY_bYGa-d5HemFw
+
+Baidu Pan    Link: https://pan.baidu.com/s/1skCi4Dv
+
+3) SRM
+
+Title: A Stagewise Refinement Model for Detecting Salient Objects in Images
+
+Authors: Tiantian Wang, Ali Borji,Lihe Zhang,Pingping Zhang, Huchuan Lu*
+Paper Links: 
+
+Google Drive Link: https://drive.google.com/file/d/0B_MpGgTntG47b18yUlJxOGtuNDA/view
 
 One Drive    Link: https://1drv.ms/u/s!AnzjJimFPB2IbY_bYGa-d5HemFw
 
