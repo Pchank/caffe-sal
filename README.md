@@ -52,7 +52,7 @@ Prerequisites:
 
 Download source code from  
 
-Google Drive Link: https://drive.google.com/file/d/0B5t8yubOMmTKelBZQlE3Y3JzOWs/view?usp=sharing 
+Google Drive Link: https://drive.google.com/open?id=0B5t8yubOMmTKazhHdV8yR19tek0 
 
 One Drive    Link: https://1drv.ms/u/s!AnzjJimFPB2Ib_zU3E15C6AxkXQ 
 
