@@ -56,7 +56,7 @@ Google Drive Link: https://drive.google.com/file/d/0B5t8yubOMmTKelBZQlE3Y3JzOWs/
 
 One Drive    Link: https://1drv.ms/u/s!AnzjJimFPB2Ib_zU3E15C6AxkXQ 
 
-Baidu Pan    Link: https://pan.baidu.com/s/1boX9Pkr
+Baidu Pan    Link: https://pan.baidu.com/s/1jIBsUzk
 
 
 Follow the official websites of the Caffe framework and install the whole toolbox (necessary Matlab wrappers)
