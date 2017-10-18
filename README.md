@@ -146,6 +146,19 @@ year = {2017}
 
 }
 
+@InProceedings{Wang_2017_ICCV,
+
+author = {Wang, Tiantian and Borji, Ali and Zhang, Lihe and Zhang, Pingping and Lu, Huchuan},
+
+title = {A Stagewise Refinement Model for Detecting Salient Objects in Images},
+
+booktitle = {The IEEE International Conference on Computer Vision (ICCV)},
+
+month = {Oct},
+
+year = {2017}
+
+}
 Question and connection
 ------------------------------------------------------------------------------------------------------------------
 If any question, please connect
