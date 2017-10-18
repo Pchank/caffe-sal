@@ -37,6 +37,7 @@ Baidu Pan    Link: https://pan.baidu.com/s/1skCi4Dv
 Title: A Stagewise Refinement Model for Detecting Salient Objects in Images
 
 Authors: Tiantian Wang, Ali Borji,Lihe Zhang,Pingping Zhang, Huchuan Lu*
+
 Paper Links: 
 
 Google Drive Link: https://drive.google.com/file/d/0B_MpGgTntG47b18yUlJxOGtuNDA/view
