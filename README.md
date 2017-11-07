@@ -93,7 +93,7 @@ Note that we have provided the PR curves in ./PR_curves
 
 Results
 ---------------------------------------------------------------------------------------------------------------------
-The saleicy results can be download via baidu yun at http://pan.baidu.com/s/1o7O3lQq.
+The saliency maps can be download via baidu yun at http://pan.baidu.com/s/1o7O3lQq.
 
 Citation
 ---------------------------------------------------------------------------------------------------------------------
