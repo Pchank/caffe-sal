@@ -2,7 +2,7 @@
                                       
 Introduction
 ------------------------------------------------------------------------------------------------------------------
-This file contains our saliency detection models appeared in ICCV2017. We dive into the convolutional features in pre-trained FCN models and propose the following methods.
+This file contains our saliency detection models appeared in ICCV2017. We delve into the convolutional features in pre-trained FCN models and propose the following methods.
 
 1) Amulet
 
